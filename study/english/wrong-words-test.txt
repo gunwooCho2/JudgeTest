@@ -1,0 +1,38 @@
+English Wrong-Word Test - Attempt 4 - COMPLETED 32/32
+Checkpoint: after English question 50
+Instruction: Write the core Korean meaning of every English word.
+Target: 32 / 32
+Answers are intentionally omitted from this file.
+
+01. consider 고려하다, 판단하다
+02. until ~~할 때까지
+03. admit 인정하다
+04. reliable 신뢰성 있는
+05. lack 부족, 결핍
+06. reluctant 꺼리는
+07. evidence 증거
+08. whether ~인지 아닌지
+09. sufficient 충분한
+10. clerk 직원
+11. present 제시하다, 제출하다
+12. absent 결석하다
+13. determine 결정하다, 판단하다.
+14. therefore 그러므로, 따라서
+15. supposed 기대되는
+16. witness 증인
+17. provide 제시하다
+18. reasonable 합리적인
+19. dismiss 기각하다
+20. available 사용 가능 한
+21. claim 주장
+22. confidently 자신있게
+23. unless ~~하지 않으면
+24. trial 재판
+25. deny 부인하다
+26. inconsistent 일관적이지 않은, 모순된
+27. postpone 연기하다
+28. statement 진술
+29. despite ~에도 불구하고
+30. attend 참석, 출석
+31. insufficient 불충분한
+32. even 심지어
