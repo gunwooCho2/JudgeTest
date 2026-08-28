@@ -8,6 +8,7 @@
 2. `study/session-log.md`의 최근 기록
 3. 학습할 시대에 해당하는 `study/error-notes/*.md`
 4. `study/mastered-archive.md`는 과거 숙달 여부를 확인할 필요가 있을 때만 읽는다.
+5. 법원직 과목의 자체 문제를 출제하거나 출제 품질을 검수하는 세션에서는 `study/question-generation-policy.md`를 반드시 읽는다.
 
 영어 학습 세션에서는 추가로 다음 문서를 읽는다.
 
@@ -77,6 +78,7 @@
 
 - 국어 세션 시작 시 `study/korean/README.md`, `study/korean/current-state.md`, `study/korean/error-notes.md`, `study/korean/practice-exam-reviews.md`, `study/korean/session-log.md`의 최근 기록을 읽는다.
 - 국어의 최신 출제·응답·해설 방식은 `study/korean/README.md`를 우선한다.
+- 국어 자체 문제를 출제하거나 검수할 때는 `study/question-generation-policy.md`도 함께 적용한다.
 - 국어 종료 시 위 현재 상태·오답 노트·세션 기록을 갱신하고, 마지막 채점 번호와 미응답 문항을 명확히 남긴다.
 
 ## 과목 공통 자동 단계 조절
